@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="User_category"
+        android:title="USER" />
+
+    <EditTextPreference
+    android:key="user_email"
+    android:dialogTitle="Your Email"
+    android:dialogMessage="Enter your email address"
+    android:title="Email"
+    android:summary="Update your email address"/>
+
+    <EditTextPreference
+        android:key="user_password"
+        android:dialogTitle="Your Password"
+        android:dialogMessage="Enter your password"
+        android:title="Password"
+        android:summary="Update your password"/>
+
+    <ListPreference
+        android:title="Type of Place Nearby"
+        android:summary="Select the type of place that you would like to search"
+        android:key="downloadType"
+        android:defaultValue="1"
+        android:entries="@array/listType"
+        android:entryValues="@array/listValues" />
+
+
+
+
+
+</PreferenceScreen>

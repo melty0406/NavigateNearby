@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#23A7DB</color>
+    <color name="colorPrimaryDark">#fb5bd1ff</color>
+    <color name="colorAccent">#000</color>
+
+    <color name="colorOtherPrimary">#000</color>
+    <color name="bluegrey">#d0e3ea</color>
+    <color name="darkGray">#7c7474</color>
+    <color name="colorOtherAccent">#f1f6f7</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="aqua">#1bfaca</color>
+    <color name="transparent">#00000000</color>
+    <color name="gradStart">#19AA8B</color>
+    <color name="gradStop">#23A7DB</color>
+    <color name="colorError">#fc0000</color>
+
+    <color name="mapboxGrayLight">#c6d2e1</color>
+    <color name="mapboxWhite">#ffffff</color>
+    <color name="mapboxBlue">#4264fb</color>
+    <color name="mapboxPink">#ee4e8b</color>
+    <color name="mapboxYellow">#d9d838</color>
+    <color name="mapboxRed">#b43b71</color>
+</resources>

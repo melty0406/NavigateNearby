@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "498699042298",
+    "firebase_url": "https://foodeverywhere-78bfb.firebaseio.com",
+    "project_id": "foodeverywhere-78bfb",
+    "storage_bucket": "foodeverywhere-78bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498699042298:android:e806e8f1c8df1ed933b843",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498699042298-mi8d9atsuqpvpqu2rmgo5t63c3kpv0s6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.myapplication",
+            "certificate_hash": "4140866b567c375f6f3d914cea15119b6f89a945"
+          }
+        },
+        {
+          "client_id": "498699042298-hlneh1nfidr2ceejd15p8asb2kiel9j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70mwD8iifC_me9VfeVQHoE0YmkgRqWGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498699042298-hlneh1nfidr2ceejd15p8asb2kiel9j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
